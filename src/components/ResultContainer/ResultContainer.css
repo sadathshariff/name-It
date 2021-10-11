@@ -1,0 +1,15 @@
+.results-container{
+    display:flex;
+    justify-content:center;
+    /* flex-direction:row;
+    flex-wrap:wrap; */
+    padding:20px 40px
+}
+
+.result-card{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    padding:10px;
+}
